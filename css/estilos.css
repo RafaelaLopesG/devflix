@@ -5,7 +5,10 @@
 
 body {background-color: #000000;}
 
-.imagem {float: right;}
+.imagem {position: absolute;
+	 float: right;
+         left: 85px;
+         top: 140px;}
 
 h1 {position: absolute;
     width: 588px;
